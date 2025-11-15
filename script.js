@@ -64,3 +64,5 @@ multipleChoiceOptionBtns.forEach((btn) =>
     imgElement.alt = LANDMARKS[randomIndex].name;
   })
 );
+
+// Testing
